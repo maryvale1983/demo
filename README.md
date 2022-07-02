@@ -1,1 +1,2 @@
-Github iogrenmek icin denemeler
+i bu tamamen degismistir:wq
+
