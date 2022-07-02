@@ -1,2 +1,1 @@
-# demo
-deneme
+Github iogrenmek icin denemeler
